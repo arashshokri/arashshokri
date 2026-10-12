@@ -88,6 +88,7 @@ I enjoy building reliable communication platforms, automation tools, backend ser
 <p>
   <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square">
   <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-293239?style=flat-square">
+  <img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square">
   <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=flat-square">
   <img alt="vCenter" src="https://img.shields.io/badge/vCenter-607078?style=flat-square">
   <img alt="Netdata" src="https://img.shields.io/badge/Netdata-00AB44?style=flat-square">
