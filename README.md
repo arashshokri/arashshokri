@@ -22,9 +22,9 @@ I enjoy building reliable communication platforms, automation tools, backend ser
 - 🐍 Developing backend services and automation with **Python**
 - 🧩 Designing **Microservices** and API-driven architectures
 - 🐧 Building and managing production services on **Linux**
-- ⚙️ Developing backend systems with **Python** and **PHP / Laravel**
+- ⚙️ Developing backend systems with **Python** 
 - 🔌 Building **API, Webhook and CRM integrations**
-- 🗄️ Working with **PostgreSQL, MySQL and Redis**
+- 🗄️ Working with **MongoDB, MySQL and SQLite**
 - 📊 Interested in **monitoring, automation and reliable infrastructure**
 - 📚 I also enjoy creating technical documentation and reusable deployment workflows
 
