@@ -54,6 +54,7 @@ I enjoy building reliable communication platforms, automation tools, backend ser
 
 <p>
   <img alt="Asterisk" src="https://img.shields.io/badge/Asterisk-F68F1E?style=flat-square">
+  <img alt="Kamailio" src="https://img.shields.io/badge/Asterisk-F68F1E?style=flat-square">
   <img alt="SIP" src="https://img.shields.io/badge/SIP-005571?style=flat-square">
   <img alt="PJSIP" src="https://img.shields.io/badge/PJSIP-0A66C2?style=flat-square">
   <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square">
