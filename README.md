@@ -45,8 +45,6 @@ I enjoy building reliable communication platforms, automation tools, backend ser
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square">
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-02569B?style=flat-square">
-  <img alt="Webhooks" src="https://img.shields.io/badge/Webhooks-555555?style=flat-square">
   <img alt="Asterisk ARI / AMI" src="https://img.shields.io/badge/Asterisk_ARI_%2F_AMI-F68F1E?style=flat-square">
 </p>
 
@@ -71,9 +69,9 @@ I enjoy building reliable communication platforms, automation tools, backend ser
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square">
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square">
   <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square">
   <img alt="Dozzle" src="https://img.shields.io/badge/Dozzle-222222?style=flat-square">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square">
 </p>
 
 ### Databases & Services
